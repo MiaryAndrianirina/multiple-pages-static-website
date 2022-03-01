@@ -1,0 +1,11 @@
+body {
+  background: cadetblue;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+li {
+  color: black;
+  text-align: center;
+}
